@@ -28,7 +28,7 @@
         <com.dubbo>1.0.0</com.dubbo>
         <com.zk.version>3.4.6</com.zk.version>
         <com.zk.client>0.1</com.zk.client>
-        <curator-framework.version>4.0.1</curator-framework.version>
+        <curator-framework.version>5.6.0</curator-framework.version>
         <dubbo.starter.version>0.2.0</dubbo.starter.version>
     </properties>
 
